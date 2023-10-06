@@ -9,9 +9,9 @@ Realizar un sitio web en HTML y la librería de diseño Bootstrap que contenga l
 
 
 ## Información proyecto
-+ Desarrollador Mobile Trainee - Luis Fuentes 
-+ Repositorio proyecto [Artist API REST](https://github.com/LuisFuentesDev/ApiRest)
-+ Descripción: Realización de API REST con temática de información sobre artistas. Las funcionalidades competen a un CRUD, por ende, se podrá crear, ver, actualizar y eliminar la información, mediante la conexión a una base de datos y el software Postman para evaluar el funcionamiento de los endpoints. 
++ **Desarrollador Mobile Trainee:** Luis Fuentes 
++ **Repositorio proyecto:** [Artist API REST](https://github.com/LuisFuentesDev/ApiRest)
++ **Descripción:** Realización de API REST con temática de información sobre artistas. Las funcionalidades competen a un CRUD, por ende, se podrá crear, ver, actualizar y eliminar la información, mediante la conexión a una base de datos y el software Postman para evaluar el funcionamiento de los endpoints. 
 ## ¿Cómo acceder?
 + **Paso 1:** Descargar proyecto desde el repositorio de Francisca Madariaga [Repositorio](https://github.com/framciscat/Prueba-QA-02)
 + **Paso 2** Descomprimir archivo .rar descargado y abrirlo en tu editor de código de preferencia (para esta ocasión es recomendable Visual Studio Code).
@@ -19,6 +19,6 @@ Realizar un sitio web en HTML y la librería de diseño Bootstrap que contenga l
 + **Paso 4:** Utilizar funcionalidad de "Live Server", podrás encontrarla en la parte inferior derecha de Visual Studio Code, con la anotación "Go Live".
 + **Paso 5:** Visualizar página web y sus funcionalidades, tambíen es posible visitar el siguiente link para obtener una vista desde Github Pages.
 [Github Pages](https://framciscat.github.io/Prueba-QA-02) 
++ **Paso 6:** En el dropdown del Navbar, encontrarás la pestaña "Plan de pruebas", en donde se podrán acceder a los documentos solicitados como el plan de pruebas y registro de casos de prueba.
 + **Paso 6:** ¡Y Listo! Espero que esta tarea haya sido de tu agrado, no dudes en consultar sobre cualquier inquietud. 
 
-# Prueba-QA-02
